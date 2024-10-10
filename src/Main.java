@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// Opg 1
 public class Main {
     public static void main(String[] args) {
         Customer customer = new Customer("Jesper", "Kock", "P4R4D0X1C4L");    // Instantiates first customer
@@ -21,4 +22,6 @@ public class Main {
         }
     }
 }
+
+
 
