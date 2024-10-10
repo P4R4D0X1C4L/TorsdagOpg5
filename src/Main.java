@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+/*
 // Opg 1
 public class Main {
     public static void main(String[] args) {
@@ -22,6 +22,17 @@ public class Main {
         }
     }
 }
+*/
 
+// Opg 2
+public class Main {
+    public static void main(String[] args) {
+        Cafe cafe = new Cafe();
+
+        for (String i : cafe.getCoffeeMenu()){
+            System.out.println(i);
+        }
+    }
+}
 
 
